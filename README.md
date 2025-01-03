@@ -1,2 +1,3 @@
-# -
-钱包
+mkdir tron-wallet-simulator
+cd tron-wallet-simulator
+npm init -y
